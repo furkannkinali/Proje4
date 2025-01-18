@@ -1,2 +1,2 @@
-
+Tiva GH6PM mikroişlemcisi ile C dilinde UART haberleşme protokolü kullanılarak, C# dilinde Sharp Developer stüdyosunda yazılmış olan program sayesinde haberleşen mikroişlemciye 16x2 LCD'nin ilk satırında C# uygulamasından bilgisayardan girilen başlangıç saati ile saat saymakta iken LCD'nin ikinci satırında ise adc  verileri ve karakter girilmiştir
 ![seriport](https://github.com/user-attachments/assets/d54e093d-a05d-4c99-bddd-322e3b5c2cba)
